@@ -10,3 +10,8 @@
 
 > Future tense moves into fortune-teller land
 
+Fashion is important to David, so he **always selects** the latest and most popular style: meskipun setelah always, infinitive tetap ada -s
+
+Two minutes after receiving the award, Diane **placed** it on a shelf next to her “Best Dressed, Considering” medal: Two minutes after mengindikasikan past, tergantung konteks lah ya 
+
+Note: Perhatikan akhiran -s; Perhatikan beda present dan present progressive
