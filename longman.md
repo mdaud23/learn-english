@@ -22,9 +22,11 @@ For the last three years at various hospitals in the county has been practicing 
 
 > An appositive is a noun that comes before or after another noun and has the same meaning, generally set off from the noun with commas. Not a subject
 
-``` My friend, George, is attending the lecture ```
-``` Sally the best student in the class, got an A on the exam ```
-``` An excellent basketball player, Sarah rarely misses her basketball shots ```
+`My friend, George, is attending the lecture`
+
+`Sally the best student in the class, got an A on the exam`
+
+`An excellent basketball player, Sarah rarely misses her basketball shots`
 
 ``` Last semester, a friend, graduated cum laude from the university: (I) ```
 
