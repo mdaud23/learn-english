@@ -57,6 +57,6 @@ verb, or (3) an adjective.
 
 `The car (listed) in the advertisement had already (stalled): (C)`
 
-note: kadang kayak ada kurang koma di awal gitu ya, tapi itu dianggap betul
+_note_: kadang kayak ada kurang koma di awal gitu ya, tapi itu dianggap betul
 
-note: Still a novelty in the late nineteenth century, **photography was** limited to the rich
+_note_: Still a novelty in the late nineteenth century, **photography was** limited to the rich
