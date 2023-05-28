@@ -16,7 +16,7 @@ Two minutes after receiving the award, Diane **placed** it on a shelf next to he
 
 Note: Perhatikan akhiran -s; Perhatikan beda present dan present progressive
 
-### Putting Perfect Tenses in The Spotlight
+### 2 Putting Perfect Tenses in The Spotlight
 
 > Past perfect places on event in the past before another event in the past
 
