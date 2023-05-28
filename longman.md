@@ -54,6 +54,7 @@ verb, or (3) an adjective.
 3. The picture painted by Karen is now in a museum
 
 `The money was (offered) by the client was not (accepted): (I)`
+
 `The car (listed) in the advertisement had already (stalled): (C)`
 
 note: kadang kayak ada kurang koma di awal gitu ya, tapi itu dianggap betul
