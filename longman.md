@@ -43,3 +43,18 @@ The man *talking* to his friend has a beard: *talking* is participle
 The fruits were rotting because of the moisture in the crates carrying them to market: (C)
 
 The speaker was trying to make his point was often interrupted vociferously: (I)
+
+#### Skill 5: Be Careful of Past Participles
+> A past participle often ends In -ed, but there are also many Irregular past participles. For many
+verbs, including -ed verbs, the simple past and the past participle are the same and can be easily
+confused. The -ed form of the verb can be (1) the simple past, (2) the past participle of a
+verb, or (3) an adjective.
+1. She painted this picture
+2. She has painted this picture
+3. The picture painted by Karen is now in a museum
+
+`The money was (offered) by the client was not (accepted): (I)`
+`The car (listed) in the advertisement had already (stalled): (C)`
+
+note: kadang kayak ada kurang koma di awal gitu ya, tapi itu dianggap betul
+note: Still a novelty in the late nineteenth century, **photography was** limited to the rich
