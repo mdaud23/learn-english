@@ -60,3 +60,27 @@ verb, or (3) an adjective.
 _note_: kadang kayak ada kurang koma di awal gitu ya, tapi itu dianggap betul
 
 _note_: Still a novelty in the late nineteenth century, **photography was** limited to the rich
+
+### == Sentences with Multiple Clause ==
+
+#### Skill 6: Use Coordinate Connectors Correctly
+
+> Whenever you find a sentence on the TOEFL test with more than one clause, you need to make sure that every subject has a verb and every verb has a subject.
+> Next, you need to check that the various clause in the sentence are correctly joined.
+
+> Coordinate connectors need a comma in between the clauses.
+> The coordinate connectors are: _and, but, or, so, yet_
+
+> Harus bermakna dan nyambung, jangan lupa kelengkapan klausa, dan 
+
+`Tom is singing, and Paul is dancing.`
+
+`Tom is tall, but Paul is short.`
+
+`Tom must write the letter, or Paul will do it.`
+
+`Tom told a joke, so Paul laughed.`
+
+ `Tom is tired, yet he is not going to sleep.`
+
+#### Skill 7: Use Adverb Time and Cause Connectors Correctly
