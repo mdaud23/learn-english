@@ -71,7 +71,7 @@ _note_: Still a novelty in the late nineteenth century, **photography was** limi
 > Coordinate connectors need a comma in between the clauses.
 > The coordinate connectors are: _and, but, or, so, yet_
 
-> Harus bermakna dan nyambung, jangan lupa kelengkapan klausa, dan 
+> Harus bermakna dan nyambung, jangan lupa kelengkapan subject dan verb juga
 
 `Tom is singing, and Paul is dancing.`
 
