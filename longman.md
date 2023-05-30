@@ -84,3 +84,15 @@ _note_: Still a novelty in the late nineteenth century, **photography was** limi
  `Tom is tired, yet he is not going to sleep.`
 
 #### Skill 7: Use Adverb Time and Cause Connectors Correctly
+
+> pay attention to comma placement when using adverb time and cause connector
+
+`I will sign the check before you leave.` and `Before you leave, I will sign the check`
+
+`I missed the appointment since he was late` and `since he was late, I missed the appointment`
+
+**time connector:**_after, as, as soon as, once, when, before, since, whenever, as long as, by the time, until, while_
+
+**cause connector:**_as, now that, because, since, inasmuch as_
+
+_note_: yg setara tak bisa hanya dipisahkan koma
