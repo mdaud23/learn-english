@@ -96,3 +96,19 @@ _note_: Still a novelty in the late nineteenth century, **photography was** limi
 **cause connector:** _as, now that, because, since, inasmuch as_
 
 _note_: yg setara tak bisa hanya dipisahkan koma
+
+#### Skill 8: Use Other Adverb Connectors Correctly
+
+> S V adverb connector S V
+
+> Adverb Connector S V, S V
+
+**Other Adverb Connectors**:
+1. Condition: if, in case, provided, providing, unless, whether
+2. Contrast: although, even though, though, while, whereas
+3. Manner: as, in that
+4. Place: Where, Wherever
+
+`While most students turned the assignment in on time, a few asked for an extension`
+
+`I will wait here in the airport with you whether the plane leaves on time or not`
