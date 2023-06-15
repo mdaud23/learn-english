@@ -112,3 +112,12 @@ _note_: yg setara tak bisa hanya dipisahkan koma
 `While most students turned the assignment in on time, a few asked for an extension`
 
 `I will wait here in the airport with you whether the plane leaves on time or not`
+
+#### Special Summary
+
+`The furniture will be delivered as soon it is paid for` -> incorrect, because of incorrect connector. It should be as soon as
+
+`Without the proper card installed inside the computer, it is impossible to run a graphical program` -> correct
+
+> Perhatikan, butuhnya contrast, condition, atau apa
+
