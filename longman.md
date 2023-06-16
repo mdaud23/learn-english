@@ -121,3 +121,26 @@ _note_: yg setara tak bisa hanya dipisahkan koma
 
 > Perhatikan, butuhnya contrast, condition, atau apa
 
+== More Sentences With Multiple Clauses ==
+
+#### Skill 9: Use Noun Clause Connector Correctly
+
+> A noun clause is a clause that functions as a noun
+
+`I know **when he will arrive**` -> as object of verb
+
+`I am concerned about **when he will arrive**` -> as object of preposition
+
+`**When he will arrive** is not important` -> as subject
+
+`**That he was late** cause many problems` -> as subject
+
+**noun clause connector**: what, when, where, why, how, whatever, whenever, whether, if, that
+
+_note_: gampangnya, tentukan dia sebagai apa perannya di dalam kalimat, terus jangan sampe kelebihan connector
+
+
+
+
+
+
