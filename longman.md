@@ -153,6 +153,7 @@ _note_: gampangnya, tentukan dia sebagai apa perannya di dalam kalimat, terus ja
 
 **noun clause connector/subjects**: who, whoever, what, whatever, which, whichever
 
+_note_: prinsip jumlah subject and verb tetap berlaku!
 
 
 
