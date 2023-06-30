@@ -139,7 +139,17 @@ _note_: yg setara tak bisa hanya dipisahkan koma
 
 _note_: gampangnya, tentukan dia sebagai apa perannya di dalam kalimat, terus jangan sampe kelebihan connector
 
+#### Skill 10: Use Noun Clause Connector/Subjects Correctly
 
+> in Some cases, a noun clause connector is not just a connector; a noun clause connector can also be the subject of the clause at the same time
+
+`I do not know what is in the box` -> noun clause as object of verb
+
+`We are concerned about who will do the work` -> noun clause as object of preposition
+
+`Whoever is coming to the party must brin a gift` -> noun clause as subject
+
+`what was on television made me angry`
 
 
 
