@@ -151,6 +151,8 @@ _note_: gampangnya, tentukan dia sebagai apa perannya di dalam kalimat, terus ja
 
 `what was on television made me angry`
 
+**noun clause connector/subjects**: who, whoever, what, whatever, which, whichever
+
 
 
 
