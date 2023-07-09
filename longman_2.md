@@ -20,3 +20,10 @@
 
 ### == Sentence With Reduced Clauses ==
 
+It is possible in English for a clause to appear in a complete form or in a reduced form
+
+`My friend should be on the train _which is arriving at the station now_`
+
+`Although _it was_ not really difficult, the exam took a lot of time`
+
+#### Skill 13: Use Reduced Adjective Clauses Correctly
