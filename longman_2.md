@@ -27,3 +27,21 @@ It is possible in English for a clause to appear in a complete form or in a redu
 `Although _it was_ not really difficult, the exam took a lot of time`
 
 #### Skill 13: Use Reduced Adjective Clauses Correctly
+
+Adjective clauses can appear in a reduced form. In the reduced form, the adjective clause connector 
+and the be-verb that directly follow it are omitted.
+
+> The woman who is waving to us is the tour guide -> The woman waving to us is the tour guide
+
+> The pitcher that is on the table is full of iced tea -> The pitcher on the table is full of iced tea
+
+an adjective clause can only be reduced if the connector is also a subject
+
+> The woman that I just met is the tour guide (does not reduce)
+
+Another example:
+
+The white house, which is located in Washington, is the home of the president -> The white house, located in Washington, is the home of the president
+-> Located in Washington, the White House is the home of the president
+
+please note that cuma ada v-ing dan past participle untuk reduced form. Please note juga ketika dia v-ing itu sebagai pelaku, dan ketika past participle itu dia sebagai diperlakukan
