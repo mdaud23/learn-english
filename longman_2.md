@@ -45,3 +45,17 @@ The white house, which is located in Washington, is the home of the president ->
 -> Located in Washington, the White House is the home of the president
 
 please note that cuma ada v-ing dan past participle untuk reduced form. Please note juga ketika dia v-ing itu sebagai pelaku, dan ketika past participle itu dia sebagai diperlakukan
+
+#### Skill 14: Use Reduced Adverb Clauses Correctly
+
+> Although he feels rather sick, the speaker will take part in the seminar -> Although feeling rather sick, the speaker will take part in the seminar
+
+> When you give your speech, you should speak loudly and distinctly -> When giving your speech, you should speak loudly and distinctly
+
+> Although he is rather unwell, the speaker will take part in the seminar -> Although rather unwell, the speaker will take part in the seminar
+
+> When you are ready, you can begin your speech
+
+
+
+
