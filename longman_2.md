@@ -56,6 +56,6 @@ please note that cuma ada v-ing dan past participle untuk reduced form. Please n
 
 > When you are ready, you can begin your speech
 
-
+please note that cuma ada v-ing dan past participle untuk reduced form. Please note juga ketika dia v-ing itu sebagai pelaku, dan ketika past participle itu dia sebagai diperlakukan
 
 
