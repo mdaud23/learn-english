@@ -58,7 +58,6 @@ please note that cuma ada v-ing dan past participle untuk reduced form. Please n
 
 please note that cuma ada v-ing dan past participle untuk reduced form. Please note juga ketika dia v-ing itu sebagai pelaku, dan ketika past participle itu dia sebagai diperlakukan
 
-Toefl Exercise (Skills 13-14):
-1. 
+_Note_: don't forget to count the verb and its conjunction
 
 
